@@ -1,0 +1,4 @@
+Name	Quantity	Rate	Cost
+a		1		20		20
+b		2		50		100
+c		3		100		300
